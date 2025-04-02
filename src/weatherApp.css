@@ -1,0 +1,32 @@
+.loader {
+  margin-top: 1rem !important;
+}
+
+footer {
+    
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 1rem;
+}
+
+.footer-cont{
+display: flex;
+justify-content: center;
+}
+
+html {
+  position: relative;
+  min-height: 90%;
+}
+
+.foot-img {
+  width: 1.4rem;
+  margin: 0rem 0.3rem;
+}
+
+.foot-img:hover {
+  transition: 0.8s ease-out;
+  scale: 1.2;
+}

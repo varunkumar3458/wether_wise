@@ -1,0 +1,21 @@
+.sub_btn:hover {
+  border: 0.01rem solid rgba(0, 0, 0, 0.797) !important;
+  background-color: rgba(13, 179, 225, 0.669);
+  border-radius: 0.5rem;
+  
+}
+.sub_btn {
+  display: flex;
+  justify-self: center;
+}
+
+.inp {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.Alert{
+width: 50%;
+margin: 1rem auto 1rem auto;
+}
